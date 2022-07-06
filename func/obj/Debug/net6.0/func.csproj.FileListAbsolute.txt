@@ -1,0 +1,15 @@
+/Users/sofa/Desktop/repo_1/repo/func/bin/Debug/net6.0/func
+/Users/sofa/Desktop/repo_1/repo/func/bin/Debug/net6.0/func.deps.json
+/Users/sofa/Desktop/repo_1/repo/func/bin/Debug/net6.0/func.runtimeconfig.json
+/Users/sofa/Desktop/repo_1/repo/func/bin/Debug/net6.0/func.dll
+/Users/sofa/Desktop/repo_1/repo/func/bin/Debug/net6.0/func.pdb
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.csproj.AssemblyReference.cache
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.AssemblyInfoInputs.cache
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.AssemblyInfo.cs
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.csproj.CoreCompileInputs.cache
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.dll
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/refint/func.dll
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.pdb
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/func.genruntimeconfig.cache
+/Users/sofa/Desktop/repo_1/repo/func/obj/Debug/net6.0/ref/func.dll
