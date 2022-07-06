@@ -1,0 +1,15 @@
+/Users/sofa/Desktop/repo_1/repo/lection_3/bin/Debug/net6.0/lection_3
+/Users/sofa/Desktop/repo_1/repo/lection_3/bin/Debug/net6.0/lection_3.deps.json
+/Users/sofa/Desktop/repo_1/repo/lection_3/bin/Debug/net6.0/lection_3.runtimeconfig.json
+/Users/sofa/Desktop/repo_1/repo/lection_3/bin/Debug/net6.0/lection_3.dll
+/Users/sofa/Desktop/repo_1/repo/lection_3/bin/Debug/net6.0/lection_3.pdb
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.csproj.AssemblyReference.cache
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.AssemblyInfoInputs.cache
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.AssemblyInfo.cs
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.csproj.CoreCompileInputs.cache
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.dll
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/refint/lection_3.dll
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.pdb
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/lection_3.genruntimeconfig.cache
+/Users/sofa/Desktop/repo_1/repo/lection_3/obj/Debug/net6.0/ref/lection_3.dll
