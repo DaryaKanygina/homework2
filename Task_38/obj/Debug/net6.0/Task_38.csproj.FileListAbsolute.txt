@@ -1,0 +1,15 @@
+/Users/sofa/Desktop/repo_1/repo/Task_38/bin/Debug/net6.0/Task_38
+/Users/sofa/Desktop/repo_1/repo/Task_38/bin/Debug/net6.0/Task_38.deps.json
+/Users/sofa/Desktop/repo_1/repo/Task_38/bin/Debug/net6.0/Task_38.runtimeconfig.json
+/Users/sofa/Desktop/repo_1/repo/Task_38/bin/Debug/net6.0/Task_38.dll
+/Users/sofa/Desktop/repo_1/repo/Task_38/bin/Debug/net6.0/Task_38.pdb
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.csproj.AssemblyReference.cache
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfoInputs.cache
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfo.cs
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.csproj.CoreCompileInputs.cache
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.dll
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/refint/Task_38.dll
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.pdb
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/Task_38.genruntimeconfig.cache
+/Users/sofa/Desktop/repo_1/repo/Task_38/obj/Debug/net6.0/ref/Task_38.dll
